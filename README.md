@@ -11,7 +11,7 @@
  
 <div >
   
-- 👨‍💻 All of my projects are available at [https://github.com/ShaileshPanghate](https://github.com/ShaileshPanghate)
+- 👨‍💻 All of my projects are available at [[https://github.com/ShaileshPanghate](https://github.com/ShaileshPanghate)](https://shaileshpanghate.github.io/)
 
 - 💬 Ask me about **React | ChakraUI | Redux | Node.js | Express.js | MongoDB | HTML | CSS | JavaScript | Java**
 
