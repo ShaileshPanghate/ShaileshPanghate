@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **shaileshpanghate2986@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1tFa_roWz1FBE5zKCWWzom2tqeJiDjfez/view?usp=sharing](https://drive.google.com/file/d/1tFa_roWz1FBE5zKCWWzom2tqeJiDjfez/view?usp=sharing)](https://drive.google.com/file/d/1hChKko-IYENu8-RHupiQ1JbHvJ5Ck5cT/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1tFa_roWz1FBE5zKCWWzom2tqeJiDjfez/view?usp=sharing)](https://drive.google.com/file/d/1hChKko-IYENu8-RHupiQ1JbHvJ5Ck5cT/view?usp=sharing)
 </div>
 
 </div>
