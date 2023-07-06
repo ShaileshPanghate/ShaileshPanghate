@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shailesh Panghate</h1>
 <h3 align="center">Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using React, Redux, and CSS on the frontend, Node.js and Express.js on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.</h3>
 
+
 <br/>
 <br/>
 
@@ -17,7 +18,7 @@
 
 - 📫 How to reach me **shaileshpanghate2986@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tFa_roWz1FBE5zKCWWzom2tqeJiDjfez/view?usp=sharing](https://drive.google.com/file/d/1tFa_roWz1FBE5zKCWWzom2tqeJiDjfez/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1tFa_roWz1FBE5zKCWWzom2tqeJiDjfez/view?usp=sharing](https://drive.google.com/file/d/1tFa_roWz1FBE5zKCWWzom2tqeJiDjfez/view?usp=sharing)](https://drive.google.com/file/d/1hChKko-IYENu8-RHupiQ1JbHvJ5Ck5cT/view?usp=sharing)
 </div>
 
 </div>
