@@ -4,6 +4,8 @@ import ProjectCards from "../Components/ProjectCards/ProjectCards";
 import p1 from "../Assets/p1.PNG";
 import p2 from "../Assets/p2.PNG";
 import p3 from "../Assets/p3.PNG";
+import p4 from "../Assets/p4.PNG";
+import p5 from "../Assets/p5.PNG";
 
 
 function Projects() {
@@ -51,17 +53,28 @@ function Projects() {
             />
           </Col>
 
-          {/* <Col md={6} className="project-card">
+          <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="https://github.com/Rushikesh7997/Sreenshots/blob/main/to-do%201.PNG?raw=true"
-              title="To-Do-List"
-              description="ToDo List App is a kind of app that generally used to maintain our day-to-day tasks or list everything that we have to do. It is helpful in planning our daily schedules. It is created by JavaScript, Html, Css languages."
+              imgPath={p4}
+              title="Password Generator"
+              description="Password Generator is an app use to Generate unique passwords, This app allows wheather to include Number, Symbol, Captial or Small letters in your password. And also you change the length of your password. "
               tech="Tech-Stacks"
-              techD="Html | Javascript | Css "
-              link="https://iridescent-granita-ec6794.netlify.app/"
-              a="https://github.com/Rushikesh7997/To-Do-List-App"
+              techD="Html | Next JS | Tailwind CSS | CSS | Typescript "
+              link="https://next-js-password-gen.vercel.app/"
+              a="https://github.com/ShaileshPanghate/nextJSPasswordGen"
             />
-          </Col> */}
+          </Col>
+          <Col md={6} className="project-card">
+            <ProjectCards
+              imgPath={p5}
+              title="To-Do App"
+              description="Streamline your tasks with our intuitive to-do app, offering seamless organization and efficient task management for enhanced productivity. "
+              tech="Tech-Stacks"
+              techD="Html | React JS | Tailwind CSS | CSS  "
+              link="https://todo-app-react-nine-chi.vercel.app/"
+              a="https://github.com/ShaileshPanghate/TodoAppReact"
+            />
+          </Col>
 
         </Row>
       </Container>

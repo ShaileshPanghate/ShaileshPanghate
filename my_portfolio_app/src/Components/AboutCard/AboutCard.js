@@ -12,7 +12,7 @@ function AboutCard() {
             <br/>
             <br/>
           I loves to build user interfaces and develop them. Strong believer that deep user understanding leads to the most innovative products. I passionately love what I do. The digital world is still very young and it is developing very rapidly, so there are always discoveries in it.
- 
+  
           </p>
           
               </blockquote>

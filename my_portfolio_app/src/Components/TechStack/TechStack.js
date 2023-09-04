@@ -9,10 +9,10 @@ import {
   DiGithubBadge,
   DiBootstrap,
   DiHtml5,
-  
+ 
 } from "react-icons/di";
-import {SiRedux,SiExpress,SiTailwindcss } from "react-icons/si";
-
+import {SiRedux,SiTailwindcss } from "react-icons/si";
+import {  TbBrandNextjs } from "react-icons/tb";
 function Techstack() {
   return (<div id="skills" >
     <br/>
@@ -39,8 +39,8 @@ function Techstack() {
 
     <Col xs={4} md={2} className="tech-icons">
       <a href = "https://expressjs.com/" target={"_blank"}>
-        <SiExpress />
-        <p>Express</p>
+        <TbBrandNextjs />
+        <p>Next JS</p>
       </a>
       </Col>
 
