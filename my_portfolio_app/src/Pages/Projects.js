@@ -52,16 +52,15 @@ function Projects() {
               a="https://github.com/khushi627jain/Quikr-Bazar"
             />
           </Col>
-
           <Col md={6} className="project-card">
             <ProjectCards
               imgPath={p4}
-              title="Password Generator"
-              description="Password Generator is an app use to Generate unique passwords, This app allows wheather to include Number, Symbol, Captial or Small letters in your password. And also you change the length of your password. "
+              title="Sun-Down Studio"
+              description="Sundown is a multi-disciplinary studio focused on creating unique, end-to-end experiences and environments. "
               tech="Tech-Stacks"
-              techD="Html | Next JS | Tailwind CSS | CSS | Typescript "
-              link="https://next-js-password-gen.vercel.app/"
-              a="https://github.com/ShaileshPanghate/nextJSPasswordGen"
+              techD="Html | CSS | JavaScript  "
+              link="https://667fc03c50c3bcfb82872538--nimble-dango-cbcc22.netlify.app/"
+              a="https://github.com/ShaileshPanghate/SunDownWeb"
             />
           </Col>
           <Col md={6} className="project-card">
