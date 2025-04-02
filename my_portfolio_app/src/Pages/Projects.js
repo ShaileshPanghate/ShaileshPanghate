@@ -6,6 +6,7 @@ import p2 from "../Assets/p2.PNG";
 import p3 from "../Assets/p3.PNG";
 import p4 from "../Assets/p4.PNG";
 import p5 from "../Assets/p5.PNG";
+import p6 from "../Assets/p6.PNG";
 
 
 function Projects() {
@@ -19,17 +20,7 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-        <Col md={6} className="project-card" >
-            <ProjectCards
-              imgPath={p3}
-              title="Nykaa clone"
-              description="This is an E-Commerce website which speciaizes in selling Cosmetics and styling products. The website provides 800 brands and 33,000 products of different types of Lipstics, Skin & Hair care Products etc. Nykaa fullfill many wishes."
-              tech="Tech-Stacks"
-              techD="Html | Javascript | Css "
-              link="https://lucent-mooncake-4d4201.netlify.app/"
-              a="https://github.com/VivekGhalout/Construct-Week-Project-"
-            />
-          </Col>
+        
         <Col md={6} className="project-card" >
             <ProjectCards
               imgPath={p1}
@@ -61,6 +52,17 @@ function Projects() {
               techD="Html | CSS | JavaScript  "
               link="https://667fc03c50c3bcfb82872538--nimble-dango-cbcc22.netlify.app/"
               a="https://github.com/ShaileshPanghate/SunDownWeb"
+            />
+          </Col>
+          <Col md={6} className="project-card">
+            <ProjectCards
+              imgPath={p6}
+              title="Ochi's Website - Ochi is a strategic partner for fast-grow­ing tech businesses that need to raise funds, sell products, ex­plain com­plex ideas, and hire great peo­ple."
+              description="Its clone of Ochi's Website"
+              tech="Tech-Stacks"
+              techD="Html | React JS  | CSS  "
+              link="https://ochiwebsiteclone-shaileshpanghates-projects.vercel.app/"
+              a="https://github.com/ShaileshPanghate/ochi_website_clone"
             />
           </Col>
           <Col md={6} className="project-card">
