@@ -7,6 +7,8 @@ import p3 from "../Assets/p3.PNG";
 import p4 from "../Assets/p4.PNG";
 import p5 from "../Assets/p5.PNG";
 import p6 from "../Assets/p6.PNG";
+import p7 from "../Assets/project5.PNG";
+import p8 from "../Assets/Project6.PNG";
 
 
 function Projects() {
@@ -21,6 +23,28 @@ function Projects() {
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
         
+        <Col md={6} className="project-card" >
+            <ProjectCards
+              imgPath={p7}
+              title="Nagpur Heights "
+              description="To redefine real estate in Nagpur by delivering exceptional service, transparent transactions, and properties that become cherished homes."
+              tech="Tech-Stacks"
+              techD="Next JS | Tailwind CSS"
+              link="https://www.nagpurheights.com/"
+              a="https://github.com/ShaileshPanghate/web_nagpur_height"
+            />
+          </Col>
+        <Col md={6} className="project-card" >
+            <ProjectCards
+              imgPath={p8}
+              title="Chromatics Solutions"
+              description="At Chromatics, we specialize in distributing cutting-edge home automation and audio-video solutions. Based in Nagpur, we bring the world's leading brands to Central India, delivering unparalleled AV experiences."
+              tech="Tech-Stacks"
+              techD="Html | Javascript | Css | React | ChakraUI "
+              link="https://www.chromaticssolutions.com/"
+              a="https://github.com/ShaileshPanghate/chroomatics_solutions"
+            />
+          </Col>
         <Col md={6} className="project-card" >
             <ProjectCards
               imgPath={p1}
