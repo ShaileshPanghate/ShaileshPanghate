@@ -1,6 +1,5 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-
 import myImg from "../Assets/my-avatar.jpg";
 import SelfIntro from "../Components/SelfIntro/SelfIntro";
 import TypeWriter from "../Components/TypeWriter/TypeWriter";
@@ -12,7 +11,7 @@ function Home() {
         <Container className="home-content">
           <Row>
             <Col md={5} className="home-profile" style={{ paddingBottom: 20 , marginLeft:"20px", marginRight:"-20px" }}>
-              <img src={myImg} alt="home pic" className="img-fluid" style={{borderRadius:"60px", height:"500px"}}/>
+              <img src={myImg} alt="home pic" className="img-fluid" style={{borderRadius:"60px", height: "auto",}}/>
             </Col>
             <Col md={7} className="home-header">
               <h1  className="heading">

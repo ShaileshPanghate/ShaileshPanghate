@@ -1,4 +1,4 @@
-/* Navbar Section  */
+   /* Navbar Section  */
   /* --------- */
   .sticky {
     background-color: #32393b !important;
@@ -162,4 +162,22 @@
   Button{
     background-color:none !important
     
+  }  
+
+  /* Mobile-only title */
+.mobile-title {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.5rem 0;
+  display: block;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .mobile-title {
+    display: none;
   }
+}
